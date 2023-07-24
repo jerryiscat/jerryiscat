@@ -3,9 +3,6 @@
 
 I am a rising junior, interested in computer science and building social good applications, especially about the accessibility of applications. 
 
-
-Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
-
 - 🌱 I’m currently learning how to implement and integrate AI into the application 
 - 📫 How to reach me: zjasmine.2002@gmail.com 
 - 😄 Pronouns: She/Her
