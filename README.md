@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Jasmine Zhang
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](img/horizental-banner.png)
 
 I am a rising junior, interested in computer science and building social good applications, especially about the accessibility of applications. 
 
