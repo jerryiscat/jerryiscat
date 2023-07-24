@@ -23,9 +23,6 @@ I am a rising junior, interested in computer science and building social good ap
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jerryiscat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jasmine-zhang-a37500233/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jerryiscat.github.io/)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryiscat)](https://github.com/anuraghazra/github-readme-stats)
 
 
