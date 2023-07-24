@@ -4,7 +4,8 @@
 I am a rising junior, interested in computer science and building social good applications, especially about the accessibility of applications. 
 
 - 🌱 I’m currently learning how to implement and integrate AI into the application 
-- 📫 How to reach me: zjasmine.2002@gmail.com 
+- 📫 How to reach me: zjasmine.2002@gmail.com
+- 👋 [My website](https://jerryiscat.github.io/)
 - 😄 Pronouns: She/Her
 
 ## Use To Code
