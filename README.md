@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Jasmine Zhang
 ![](img/horizental-banner.png)
 
-I am a rising junior, interested in computer science and building social good applications, especially about the accessibility of applications. 
+I am a rising junior, interested in computer science and building social good applications, especially about the accessibility. 
 
-- 🌱 I’m currently learning how to implement and integrate AI into the application 
+- 🌱 I’m currently learning how to implement and integrate AI into the web development
 - 📫 How to reach me: zjasmine.2002@gmail.com
 - 👋 [My website](https://jerryiscat.github.io/)
 - 😄 Pronouns: She/Her
