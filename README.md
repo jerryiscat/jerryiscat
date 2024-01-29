@@ -1,12 +1,14 @@
-### Hi there 👋, My name is Jasmine Zhang
-![](img/horizental-banner.png)
+### Hi there 👋, My name is Jasmine Zhang 
 
-I am a rising junior, interested in computer science and building social good applications, especially about the accessibility. 
-
-- 🌱 I’m currently learning how to implement and integrate AI into the web development
+## About Me ✨ 
+- 🌱 I’m currently learning how to implement and integrate AI and VR into applications.
 - 📫 How to reach me: zjasmine.2002@gmail.com
-- 👋 [My website](https://jerryiscat.github.io/personal-website/)
+- 🌸 [My website](https://jerryiscat.github.io/personal-website/)
 - 😄 Pronouns: She/Her
+  
+[![logo](img/horizental-banner.png)](/Users/jasminezhang/Desktop/personal-website/src/images/white-logo.png)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryiscat)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Use To Code
 ![Java](https://img.shields.io/badge/Java-ED1D24?style=for-the-badge&labelColor=black&logo=Java&logoColor=3776AB)
@@ -23,11 +25,3 @@ I am a rising junior, interested in computer science and building social good ap
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryiscat)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!---
-jerryiscat/jerryiscat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
