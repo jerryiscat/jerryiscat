@@ -6,7 +6,7 @@
 - 🌸 [My website](https://jerryiscat.github.io/personal-website/)
 - 😄 Pronouns: She/Her
   
-[![logo](img/horizental-banner.png)](/Users/jasminezhang/Desktop/personal-website/src/images/white-logo.png)
+[![logo](pink-logo.png)](https://jerryiscat.github.io/personal-website/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryiscat)](https://github.com/anuraghazra/github-readme-stats)
 
