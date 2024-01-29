@@ -5,7 +5,7 @@ I am a rising junior, interested in computer science and building social good ap
 
 - 🌱 I’m currently learning how to implement and integrate AI into the web development
 - 📫 How to reach me: zjasmine.2002@gmail.com
-- 👋 [My website](https://jerryiscat.github.io/)
+- 👋 [My website](https://jerryiscat.github.io/personal-website/)
 - 😄 Pronouns: She/Her
 
 ## Use To Code
