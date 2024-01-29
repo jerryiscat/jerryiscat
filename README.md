@@ -1,12 +1,11 @@
-### Hi there 👋, My name is Jasmine Zhang 
+# Hi there 👋, My name is Jasmine Zhang 
+[![logo](img/pink-logo.png)](https://jerryiscat.github.io/personal-website/)
 
 ## About Me ✨ 
 - 🌱 I’m currently learning how to implement and integrate AI and VR into applications.
 - 📫 How to reach me: zjasmine.2002@gmail.com
-- 🌸 [My website](https://jerryiscat.github.io/personal-website/)
+- 🌸 Visit [My website](https://jerryiscat.github.io/personal-website/)
 - 😄 Pronouns: She/Her
-  
-[![logo](pink-logo.png)](https://jerryiscat.github.io/personal-website/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryiscat)](https://github.com/anuraghazra/github-readme-stats)
 
